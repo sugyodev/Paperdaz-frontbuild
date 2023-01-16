@@ -1,5 +1,1 @@
-<<<<<<< HEAD:_nuxt/cf3df3c.js
 (window.webpackJsonp=window.webpackJsonp||[]).push([[110],{1856:function(t,e,n){"use strict";n.r(e);var o={name:"custom-button",props:["title","width"]},c=n(1),component=Object(c.a)(o,(function(){var t=this;return(0,t._self._c)("button",{staticClass:"text-white bg-paperdazgreen-400 py-2 px-5 rounded-[5px] text-[14px]",class:[t.width?"w-["+t.width+"]":""]},[t._v("\n    "+t._s(t.title)+"\n")])}),[],!1,null,"3373f9c4",null);e.default=component.exports}}]);
-=======
-(window.webpackJsonp=window.webpackJsonp||[]).push([[110],{1829:function(t,e,n){"use strict";n.r(e);var o={name:"custom-button",props:["title","width"]},c=n(1),component=Object(c.a)(o,(function(){var t=this;return(0,t._self._c)("button",{staticClass:"text-white bg-paperdazgreen-400 py-2 px-5 rounded-[5px] text-[14px]",class:[t.width?"w-["+t.width+"]":""]},[t._v("\n    "+t._s(t.title)+"\n")])}),[],!1,null,"3373f9c4",null);e.default=component.exports}}]);
->>>>>>> 77dde308cd7dd38b6a16cf890e7f6ee2acf624e9:_nuxt/7995cec.js
